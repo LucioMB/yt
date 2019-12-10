@@ -1,0 +1,113 @@
+.nav-home {
+    list-style-image: url(images/home.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-tendenze {
+    list-style-image: url(images/tendenze.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-iscrizioni {
+    list-style-image: url(images/iscrizioni.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-raccolta {
+    list-style-image: url(images/raccolta.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-cronologia {
+    list-style-image: url(images/cronologia.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-guardo-piu-tardi {
+    list-style-image: url(images/guardo-piu-tardi.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-video-piaciuti {
+    list-style-image: url(images/video-piaciuti.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-playlist {
+    list-style-image: url(images/playlist.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #000;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-home:hover, .nav-tendenze:hover, .nav-iscrizioni:hover, .nav-raccolta:hover, 
+.nav-cronologia:hover, .nav-guardo-piu-tardi:hover, .nav-video-piaciuti:hover, .nav-playlist:hover {
+    background-color: #d9d9d9;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-bar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    text-align: justify;
+}
+
+.nav-bar:hover {
+    background-color: #d9d9d9;
+    vertical-align: middle;
+}
+
+hr {
+    color: #d7d7d7;
+    margin: 30px 0 30px 0;
+}
+
+h3 {
+    color: #888;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
