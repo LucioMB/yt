@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    grid-column: auto;
+    width: 100%;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row;
+            flex-flow: row;
+}
+
+#main-article {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    -webkit-order: 2;
+            order: 2;
+    -webkit-flex: 3 1 60%;
+            flex: 3 1 60%;
+}
+
+#main-nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    -webkit-order: 1;
+            order: 1;
+    -webkit-flex: 1 6 15%;
+            flex: 1 6 15%;
+}
+
+nav {
+    overflow-y: none;
+    scrollbar-width: 4px;
+}
